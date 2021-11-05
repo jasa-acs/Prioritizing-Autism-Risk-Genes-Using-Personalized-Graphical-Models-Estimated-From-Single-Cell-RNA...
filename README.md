@@ -1,5 +1,5 @@
 # Prioritizing Autism Risk Genes Using Personalized Graphical Models Estimated From Single-Cell RNA-seq Data
-
+### Jianyu Liu, Haodong Wang, Wei Sun & Yufeng Liu
 # Author Contributions Checklist Form
 
 ## Data
